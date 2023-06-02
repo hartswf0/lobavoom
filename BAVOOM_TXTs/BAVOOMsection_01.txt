@@ -1,0 +1,693 @@
+Babka Lorebook
+
+5
+ 
+
+8
+ 
+
+10
+ 
+     Babka Brand 2023 Kick-off
+
+11
+ 
+          Nushi Robot RE Plan
+
+12
+ 
+     Babka RE Plans
+
+13
+ 
+          Babka OKR RE Updates
+
+14
+ 
+               KR-2618 - Babka Features & Capabilities
+
+15
+ 
+               KR-2619 - Integrate Babka into 100 Projects
+
+18
+ 
+               KR-2620 - Babka User Acquisition
+
+20
+ 
+          Babka.com RE Plan
+
+23
+ 
+          Babka Integrations RE Plans
+
+27
+ 
+               Babka Overlay for Metasites RE Plan
+
+28
+ 
+               X.LA <-> Babka Integration RE Plan
+
+30
+ 
+               LTG <-> Babka Integration RE Plan
+
+31
+ 
+          Conversational Commerce RE Plan
+
+33
+ 
+          Babka Twitch Virtual Influencer RE Plan
+
+35
+ 
+          Loonshots RE Plans
+
+36
+ 
+          Babka Cards RE Plan
+
+37
+ 
+          Babka Bot RE Plan
+
+38
+ 
+          Babka SDK RE Plan
+
+40
+ 
+          Babka Referral Payouts RE Plan
+
+41
+ 
+          Babka User Acquistion RE Plan
+
+42
+ 
+          Archived RE Plans
+
+44
+ 
+               Babka @ GDC RE Plan
+
+45
+ 
+               Babka Web3 Wallet RE Plan
+
+47
+ 
+               Babka Brand RE Plan
+
+49
+ 
+               Babka Conversational Commerce RE Plan
+
+56
+ 
+          RE Plan Template
+
+57
+ 
+
+58
+ 
+     Babka Book
+
+61
+ 
+          Babka Book: Volume I
+
+62
+ 
+          Babka Book: Volume II
+
+63
+ 
+
+64
+ 
+          Babka's World
+
+66
+ 
+               Timestream B-102 Overview
+
+76
+ 
+
+86
+ 
+               Babka Profile Info
+
+89
+ 
+
+91
+ 
+               Babka's Lore
+
+96
+ 
+          Babka: The World
+
+98
+ 
+          Babka Philosophy
+
+99
+ 
+               Babka as Merchant Meta-character
+
+100
+ 
+               To Babka...or Not to Babka?
+
+103
+ 
+     Babka Systems
+
+106
+ 
+
+108
+ 
+
+109
+ 
+
+112
+ 
+               Blue Orbs
+
+117
+ 
+               Silver Orbs
+
+121
+ 
+               Miscellaneous Orbs
+
+124
+ 
+               Orbs & Metacurrencies Glossary
+
+126
+ 
+               Orbs Development Archive
+
+130
+ 
+          Babka Inventories
+
+132
+ 
+          Babka in Support
+
+138
+ 
+     Babka Account
+
+139
+ 
+          Babka Inventory Briefs
+
+142
+ 
+
+143
+ 
+
+146
+ 
+
+151
+ 
+
+154
+ 
+
+157
+ 
+
+160
+ 
+          Babka Pro
+
+163
+ 
+     Babka Product Ecosystem
+
+164
+ 
+
+166
+ 
+
+167
+ 
+
+169
+ 
+          Babka Payouts
+
+170
+ 
+
+171
+ 
+               Babka Support CX
+
+176
+ 
+          Babka Credit Card
+
+181
+ 
+     Babka Integrations
+
+184
+ 
+          Babka Integrations Guidelines & Standards
+
+186
+ 
+
+188
+ 
+          X.LA
+
+190
+ 
+          LTG
+
+191
+ 
+          Story3
+
+192
+ 
+          Game Publishers
+
+193
+ 
+     Babka User Flows
+
+194
+ 
+          Key Babka Flows
+
+195
+ 
+               Login Flow Examples
+
+200
+ 
+          Babka Account Site Map
+
+212
+ 
+               Home Page UX/UI Prototype
+
+213
+ 
+               Mailbox UX/UI Prototype
+
+215
+ 
+               Wallet UX/UI Prototype
+
+217
+ 
+               Backpack UX/UI Prototype
+
+220
+ 
+               Keychain UX/UI Prototype
+
+222
+ 
+               Passport UX/UI Prototype
+
+224
+ 
+               Purchase Log UX/UI Prototype
+
+227
+ 
+     Babka Brand Design Systems
+
+229
+ 
+          Babka Brand Design Legacy
+
+231
+ 
+          Babka in Games and Elsewhere
+
+232
+ 
+
+234
+ 
+
+235
+ 
+          Babka Brand Structure & Processes
+
+236
+ 
+               Labels for Jira Plans
+
+237
+ 
+          Babka Integrations Strategy
+
+239
+ 
+          Product Planning and Priorities
+
+241
+ 
+               Babka Q1 Flow Priority
+
+242
+ 
+          Babka Metrics
+
+247
+ 
+          Meeting Notes
+
+248
+ 
+               Meetings Template
+
+249
+ 
+               12-13-22 / Payments for XLA Metasites
+
+250
+ 
+          Babka Greenbook
+
+252
+ 
+
+253
+ 
+          Drops
+
+254
+ 
+          Babka Green Book
+
+255
+ 
+
+256
+ 
+          Future UA Methods
+
+257
+ 
+          Babka Socials Approach
+
+258
+ 
+     B2C Engagement Playbook
+
+260
+ 
+          BD Babka Playbook
+
+261
+ 
+          User Engagement Mechanics
+
+262
+ 
+               Identity
+
+264
+ 
+               Currency
+
+265
+ 
+               Inventory
+
+266
+ 
+          Babka Email Engagement
+
+267
+ 
+
+280
+ 
+          Babka's Transmissions
+
+281
+ 
+          Babka Content Strategy
+
+283
+ 
+          Babka ARG (Alternate Reality Game)
+
+284
+ 
+          Brief: Babka Mocap Content Concepts
+
+285
+ 
+          Babka Mocap: Content Part 2
+
+291
+ 
+
+302
+ 
+
+307
+ 
+          Core Event Components
+
+309
+ 
+               BABKA COSTUME INSTRUCTIONS
+
+312
+ 
+               Nushi CyberCat (TBD)
+
+335
+ 
+          Event Experience Design Details
+
+345
+ 
+          Babka Live Activation Concepts
+
+349
+ 
+               Babka's Photo Ops
+
+350
+ 
+               Babka's Lemonade Stand
+
+356
+ 
+               Babka's Cosplay Repair Station
+
+360
+ 
+               Babka's Merchant Tea Lounge
+
+362
+ 
+               Babka's Orbs: Racer Edition
+
+368
+ 
+               Babka's Babka's (Food Cart)
+
+373
+ 
+          Babka Events 2023
+
+377
+ 
+               Babka @ GDC 2023
+
+378
+ 
+                    GDC 2023 Red Carpet After Action Report
+
+386
+ 
+               BABKA @ E3 2023 (Cancelled - See Xsolla Lounge)
+
+388
+ 
+               Babka @ Comicon: San Diego, CA July 20, 2023
+
+394
+ 
+               Babka @ Gamescom: Cologne, Germany Aug23-27, 2023
+
+396
+ 
+               Babka @ Tokyo Game Show, Tokyo, Japan Sept 21-24
+
+399
+ 
+               Babka @ Gstar: Busan, Korea Nov 16-19
+
+400
+ 
+          Babka Events Template
+
+403
+ 
+     Vision for GDC from Shurick
+
+406
+ 
+
+410
+ 
+
+411
+ 
+          Babka Tribe Kick-off
+
+414
+ 
+          Babka Bot
+
+415
+ 
+               Re Plan: Babka Bot
+
+416
+ 
+          Babka Loyalty
+
+417
+ 
+
+418
+ 
+               Re Plan: Babka Loyalty
+
+423
+ 
+          Babka Game Integrations (Babka In-Game Outposts + Metasites Integrations)
+
+424
+ 
+               Re Plan: In Game Outposts
+
+427
+ 
+          Babka Twitch Virtual Influencer
+
+428
+ 
+               Re Plan: Twitch Virtual Influencer
+
+429
+ 
+               [CANVAS] Babka Twitch Virtual Influencer
+
+430
+ 
+               [PR/FAQ] Babka Twitch Virtual Influencer
+
+431
+ 
+          Nushi Robot
+
+432
+ 
+               RE Plan: Nushi Robot
+
+440
+ 
+     Babka Teams
+
+442
+ 
+          Core Team
+
+443
+ 
+          Babka @ Xsolla Teams
+
+445
+ 
+
+450
+ 
+
+451
+ 
+     Babka Lorebook Architecture
+
+453
+ 
+          Copy of Vision for GDC from Shurick
+
+460
+ 
+     Babka Core Document Playground
+
+465
+ 
+          Keynote w/ the Blue Cat
+
+466
+ 
+
+467
+ 
+          [Experimental] Nushi's Improvisational Go-To-Market Strategy with Xsolla
+
+470
+ 
+          Legacy Documentation
+
+472
+ 
+               Brand Keeper Notes
+
+473
+ 
+               Brand Assets
+
+474
+ 
+          Orbs Development Process
+
+475
+ 
+     Babka Integrations Manual
+
+477
+ 
+     Babka Wrap
+
+479
+ 
+5
+6
+7
+8
+9
+10
